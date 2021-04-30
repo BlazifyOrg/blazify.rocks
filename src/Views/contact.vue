@@ -29,7 +29,7 @@ export default {
     supports: [
       {
         name: "Discord",
-        description: "Discord for any discussion",
+        description: "Discord for any discussion, ANY programming related topics.",
         link: "https://discord.gg/ZdUYH7FaeK",
         icon: "mdi-discord"
       },{
