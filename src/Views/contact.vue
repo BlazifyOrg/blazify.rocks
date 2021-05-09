@@ -30,7 +30,7 @@ export default {
       {
         name: "Discord",
         description: "Discord for any discussion, ANY programming related topics.",
-        link: "https://discord.gg/ZdUYH7FaeK",
+        link: "https://discord.gg/GR2qNVXVNn",
         icon: "mdi-discord"
       },{
         name: "Administration",
