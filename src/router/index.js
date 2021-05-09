@@ -23,8 +23,7 @@ const routes = [
   },
   {
     path: "/projects/:id",
-    name: "project",
-    component: () => import("../Views/projects/[id]"),
+    component: () => import ("../Views/projects/id")
   },
   {
     path: "/about",
@@ -40,6 +39,7 @@ const routes = [
 ];
 
 const router = new VueRouter({
+  mode: "history",
   routes,
 });
 

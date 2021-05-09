@@ -3,7 +3,7 @@
     <h1 class="text-center custom--title">{{title}}</h1>
     <h3 class="text-center custom--description" v-if="description">{{description}}</h3>
   </div>
-</template> q
+</template>
 
 <script>
 export default {
