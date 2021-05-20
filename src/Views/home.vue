@@ -1,15 +1,16 @@
 <template>
-<Header title="Blazify" description="Blazify Is A Open Source Collaborative Which Has Developed Multiple Libraries. Our Main Language Focus Was JavaScript And TypeScript But We Are Also Starting To Develop Rust Projects. Currently The Organization Is In It's Very New Form."/>
+  <Header
+    title="Blazify"
+    description="Blazify is a Open Source Collaborative Organization which has developed Multiple Libraries. Our main language focus was JavaScript and TypeScript but we are also starting to develop Rust projects. Currently the Organization is in it's very new form."
+  />
 </template>
 
 <script>
 import Header from "@/components/Header";
 export default {
   name: "home",
-  components: {Header},
-}
+  components: { Header }
+};
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>

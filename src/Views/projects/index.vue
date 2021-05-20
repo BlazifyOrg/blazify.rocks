@@ -44,7 +44,7 @@ export default {
         image:
           "https://media.discordapp.net/attachments/713410105928056856/837727145060597810/bzs.png?width=915&height=458",
         content:
-          "A dynamic interpreted scripting language made in rust to be blazingly fast and optimised. The language consists the necessity features of any modern object oriented programming languages such as classes, objects, etc.",
+          "A dynamic compiled interpreted language made in rust to be blazingly fast and optimised. The language consists the necessity features of any modern object oriented programming languages such as classes, objects, etc.",
       },
     ],
   }),
